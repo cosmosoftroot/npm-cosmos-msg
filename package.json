@@ -1,0 +1,17 @@
+{
+  "name": "cosmos-messages",
+  "version": "1.0.0",
+  "description": "Random famous phrases",
+  "main": "src/index.js",
+  "author": "@cosmosoftroot <cosmosoft.soluciones@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "JavaScript",
+    "NPM",
+    "nodeJS"
+  ],
+  "bin": {
+    "cosmos-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
