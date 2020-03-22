@@ -6,7 +6,7 @@ This is a package that provides famous quotes randomly, to motivate our day as d
 ## Install
 
 ```npm
-npm install -g cosmos-msg
+npm i cosmos-messages
 ```
 
 # Usage
