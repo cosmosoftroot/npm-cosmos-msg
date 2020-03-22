@@ -1,7 +1,7 @@
 
 # cosmos-messages
 
-This is a package that provides famous phrases randomly, to motivate our day as developers
+This is a package that provides famous quotes randomly, to motivate our day as developers
 
 ## Install
 
