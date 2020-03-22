@@ -1,7 +1,7 @@
 {
   "name": "cosmos-messages",
   "version": "1.0.0",
-  "description": "Random famous phrases",
+  "description": "This is a package that provides famous phrases randomly, to motivate our day as developers",
   "main": "src/index.js",
   "author": "@cosmosoftroot <cosmosoft.soluciones@gmail.com>",
   "license": "MIT",
@@ -11,7 +11,18 @@
     "nodeJS"
   ],
   "bin": {
-    "cosmos-msg": "./bin/global.js"
+    "cosmos-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmosoftroot/npm-cosmos-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cosmosoftroot/npm-cosmos-msg/issues"
+  },
+  "homepage": "https://github.com/cosmosoftroot/npm-cosmos-msg#readme"
 }
